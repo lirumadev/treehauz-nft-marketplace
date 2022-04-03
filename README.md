@@ -16,7 +16,7 @@ This NFT marketplace project implements **multiple best practices smart contract
 * Factory pattern
 * Check-effect-interactions pattern
 * Pull-over-push pattern
-* Emergency stop to stop all marketplace or creator activities
+* Emergency stop to pause all marketplace or creator activities
 * Modifier as access restrictions
 * Tight variable packing for gas optimization
 
