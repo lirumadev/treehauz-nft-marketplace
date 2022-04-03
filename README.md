@@ -1,5 +1,5 @@
 # Treehauz NFT Marketplace
-This is a project for me to showcase my smart contract knowledge in order for me to get a full time professional job in web3 space. This NFT marketplace allow user to **mint and trade NFTs across different platforms' smart contracts** in the same chain network (EVM-compatible only). It supports **ERC-721** and **ERC-1155**.
+This is a project for me to showcase my Solidity smart contract knowledge in order for me to get a full time professional job in web3 space. This NFT marketplace allow user to **mint and trade NFTs across different platforms' smart contracts** in the same chain network (EVM-compatible only). It supports **ERC-721** and **ERC-1155**.
 
 # Factory contracts
 TreehauzSingleNFT.sol implements ERC-721 token and TreehauzGroupNFT.sol implements ERC-1155 token. Both factory contracts allow users to mint and burn tokens. **Special features** are both contracts allowing users to **set and update multiple royalty receivers for each tokens**.
